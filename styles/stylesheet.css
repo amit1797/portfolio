@@ -6,6 +6,7 @@ body {
 header {
     height: 90px;
     background-color: #111;
+    width: 100%;
 }
 .header-logo {
     float: left;
