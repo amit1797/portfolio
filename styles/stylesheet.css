@@ -1,0 +1,144 @@
+body {
+    margin: 0px;
+    background-color: #111;
+    color: #fff;
+}
+header {
+    height: 90px;
+    background-color: #333;
+}
+.header-logo {
+    float: left;
+    font-size: 40px;
+    padding: 20px 40px;
+}
+
+nav {
+    float: right;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+nav li {
+    float: left;
+    padding: 30px 0;
+}
+
+a:hover{
+    background-color: #fff;
+    color:#333
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+    padding: 33px;
+}
+
+#container-top {
+    height: 600px
+}
+
+.profile {
+    width: 400px;
+    margin: 100px auto;
+    text-align: center;
+}
+
+.profile h1{
+    margin: 10px;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.profile h2 {
+    margin: 10px;
+    font-weight: 400;
+}
+
+.profile-pic {
+    height: 400px;
+    width: 400px;
+    border-radius: 50%
+}
+
+.heading {
+    width: 1020px;
+    margin: 10px auto;
+}
+
+.my-photos {
+    width: 1020px;
+    margin: 0px auto;
+}
+
+.subheading {
+    font-weight: 100;
+    font-size: 40px;
+    width: 250px;
+    padding-bottom: 20px;
+    border-bottom: 3px solid #999;
+}
+
+
+ img{
+    height: 500px;
+    width: 500px;
+    display: inline-block;
+    padding-bottom: 15px;
+}
+.left {
+    display: inline-block;
+    margin-right: 10px;
+    float: left;
+    width: 500px;
+}
+
+.right {
+    display: inline-block;
+    margin-left: 10px;
+    float: right;
+    width: 500px;
+}
+
+.heading li {
+    font-size: 25px;
+    line-height: 2;
+}
+
+.address {
+    list-style-image: url(../pictures/iconfinder_94_171453.png); 
+    padding-left: 20px;
+    color: #999;
+    
+}
+
+.phone {
+    list-style-image: url(../pictures/iconfinder_phone1_172517.png);
+    padding-left: 20px;
+    color: #999;
+}
+
+.email {
+    list-style-image: url(../pictures/iconfinder_aiga_mail_134146.png);
+    padding-left: 20px;
+    color: #999;
+}
+
+ul {
+    margin: 0px;
+}
+
+
+
+
+
+
+
+#container-middle {
+    height: 1650px;
+}
